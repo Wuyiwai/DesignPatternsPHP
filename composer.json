@@ -1,0 +1,16 @@
+{
+    "name": "wuyiwai/design-patterns-php",
+    "description": "PHP-Design-Patterns",
+    "type": "project",
+    "license": ["MIT"],
+    "authors": [
+        {
+            "name": "Wuyiwai",
+            "email": "992040155@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["Behavioral", "Creational", "Structural", "More"]
+    }
+}
