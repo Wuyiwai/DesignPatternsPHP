@@ -1,7 +1,7 @@
 <?php
 
 
-namespace DesignPatterns\Behavioral\ContextOrder;
+namespace DesignPatterns\Behavioral\State;
 
 
 class ContextOrder extends StateOrder
